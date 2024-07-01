@@ -8,7 +8,7 @@ Chat with your friends using this chatserver.
 
 2.Run the Chatserver program on your desired sever computer.
 
-3.Connect to the server by changing the "127.0.0.1" to the server's private IP aderess.
+3.Connect to the server by changing the "127.0.0.1" in line 7 to the server's private IP aderess.
 
 ```python
 SERVER = "127.0.0.1"
