@@ -2,7 +2,7 @@
 import socket
 from threading import Thread
 
-# In this Line we define our local host
+# In this Line we define our server's IP
 # address with port number
 SERVER = "127.0.0.1"
 PORT = 5001
